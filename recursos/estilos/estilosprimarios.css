@@ -25,13 +25,13 @@
             height: 100px;
           }
         .informacion{
-          width: 70%;
+          width: auto;
           display: flex;
           justify-content: space-between;
           align-items: center;
         }
           .informacion section{
-            width: 30%;
+            width: 360px;
             display: flex;
             justify-content: space-between;
           }
@@ -491,7 +491,7 @@
 /*Slider Tipo 3*/
 .type-3{
   display: flex;
-  width: 150%;
+  width: 200%;
   margin-bottom: 20px;
   justify-content: space-between;
 }
@@ -505,7 +505,7 @@
         width: 120px;
         display: flex;
         height: 120px;
-        border-radius: 100%;
+       
       }
       .type-3 article div{
         width: 60%;
@@ -589,6 +589,7 @@
         background:rgba(0, 0, 0, .8);
         opacity: 0;
         display: flex;
+        padding: 10px 10px;
         align-items: center;
         justify-content: center;
       }
