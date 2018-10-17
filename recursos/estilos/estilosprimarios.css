@@ -502,7 +502,7 @@
     justify-content: space-around;
   }
       .type-3 article img{
-        width: 120px;
+        width: 150px;
         display: flex;
         height: 120px;
        
@@ -1004,7 +1004,7 @@ footer{
     }
       .type-3 article div{
         width: 100%;
-        margin-top: 90px;
+        margin-top: 130px;
         position: relative;
       }
       .type-3 article img{
@@ -1014,6 +1014,11 @@ footer{
       }
       .type-3 article div h4{
         text-align: right;
+        width: 100%;
+      }
+      .type-3 article div p{
+        text-align: right;
+        width: 100%;
       }
   /*footer*/
   .footer-content{
