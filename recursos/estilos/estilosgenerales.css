@@ -36,7 +36,51 @@
 }
 /*Estilos cambiados*/
 body{
-    background:rgba(255, 169, 82,.6) ;
+    background: rgba(255,169,82,1);
+    background: -moz-linear-gradient(left, rgba(255,169,82,1) 0%, rgba(239,90,90,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,169,82,1)), color-stop(100%, rgba(239,90,90,1)));
+    background: -webkit-linear-gradient(left, rgba(255,169,82,1) 0%, rgba(239,90,90,1) 100%);
+    background: -o-linear-gradient(left, rgba(255,169,82,1) 0%, rgba(239,90,90,1) 100%);
+    background: -ms-linear-gradient(left, rgba(255,169,82,1) 0%, rgba(239,90,90,1) 100%);
+    background: linear-gradient(to right, rgba(255,169,82,1) 0%, rgba(239,90,90,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffa952', endColorstr='#ef5a5a', GradientType=1 );
+}
+.informacion > section > div:last-child > span{
+    color:#fff !important;
+}
+.informacion > section > div:first-child > span{
+    color:#231955 !important;
+}
+
+.division-portada-titulo *{
+    color:rgba(255,255,255,.8) !important;
+}
+.slider-contenido > div article h4, .slider-contenido > div article h2, .slider-contenido > div article p {
+    color:rgba(255,255,255,.8) !important;
+}
+.slider-description *{
+    color:rgba(255,255,255,.8) !important;
+}
+.division-alterno > div h3, .division-alterno > div h5, .division-alterno > div p, .division-alterno > div span, .division-alterno > div strong{
+    color:rgba(255,255,255,.8) !important;
+}
+.division-alterno-blog a{
+    color:rgba(255,255,255,.8) !important;
+}
+.principal div{
+    color:rgba(255,255,255,.8) !important;
+}
+.tabs-content * {
+    color:rgba(255,255,255,.8) !important;
+}
+.division-alterno h4, .division-alterno > div article span{
+    color:rgba(255,255,255,.8) !important;
+}
+.last div article a{
+    color:rgba(255,255,255,.8) !important;
+}
+.leer-mas{
+    color:rgba(255,255,255,.8) !important;
 }
 
 
