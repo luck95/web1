@@ -36,40 +36,7 @@
 }
 /*Estilos cambiados*/
 body{
-    background: #231955;
-}
-header{
-    background: #fff;
-}
-.division-portada-titulo *{
-    color:rgba(255,255,255,.8) !important;
-}
-.slider-contenido > div article h4, .slider-contenido > div article h2, .slider-contenido > div article p {
-    color:rgba(255,255,255,.8) !important;
-}
-.slider-description *{
-    color:rgba(255,255,255,.8) !important;
-}
-.division-alterno > div h3, .division-alterno > div h5, .division-alterno > div p, .division-alterno > div span, .division-alterno > div strong{
-    color:rgba(255,255,255,.8) !important;
-}
-.division-alterno-blog a{
-    color:rgba(255,255,255,.8) !important;
-}
-.principal div{
-    color:rgba(255,255,255,.8) !important;
-}
-.tabs-content * {
-    color:rgba(255,255,255,.8) !important;
-}
-.division-alterno h4, .division-alterno > div article span{
-    color:rgba(255,255,255,.8) !important;
-}
-.last div article a{
-    color:rgba(255,255,255,.8) !important;
-}
-.leer-mas{
-    color:rgba(255,255,255,.8) !important;
+    background:rgba(255, 169, 82,.6) ;
 }
 
 
