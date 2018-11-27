@@ -43,7 +43,6 @@ body{
     background: -o-linear-gradient(left, rgba(255,169,82,1) 0%, rgba(239,90,90,1) 100%);
     background: -ms-linear-gradient(left, rgba(255,169,82,1) 0%, rgba(239,90,90,1) 100%);
     background: linear-gradient(to right, rgba(255,169,82,1) 0%, rgba(239,90,90,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffa952', endColorstr='#ef5a5a', GradientType=1 );
 }
 .informacion > section > div:last-child > span{
     color:#fff !important;
